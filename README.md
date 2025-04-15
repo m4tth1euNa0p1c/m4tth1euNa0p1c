@@ -49,16 +49,6 @@ Click the cards below to explore some of my top projects:
 
 ---
 
-## 🎖️ Certifications & Badges:
-
-<!-- Replace with your own badge images or dynamic badge sections from a GitHub Action -->
-[![Certification](https://img.shields.io/badge/Certified-AWS_Solutions_Architect-blue?style=for-the-badge&logo=amazonaws)](https://www.yourcertlink.com)
-[![Certification](https://img.shields.io/badge/Certified-Azure_Developer-blue?style=for-the-badge&logo=microsoftazure)](https://www.yourcertlink.com)
-[![Open Source Contributions](https://img.shields.io/badge/Open-Source-Contributor-brightgreen?style=for-the-badge)](https://github.com/m4tth1euNa0p1c)
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Participant-orange?style=for-the-badge)](https://hacktoberfest.digitalocean.com)
-
----
-
 ## 🛠️ Soft Skills & Tools:
 **Soft Skills:**  
 - 🤝 **Teamwork:** Collaborative and skilled in agile environments.  
