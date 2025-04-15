@@ -9,7 +9,7 @@ I'm Matthieu Barraque, a passionate developer with over 5 years of experience cr
 </p>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rayane_chch/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayane-achouchi-00bba9240/)
+[![X](https://img.shields.io/badge/X-%23E4405F.svg?logo=X&logoColor=white)](https://x.com/mathieubarraque) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthieu-barraque/)
 
 ## 💻 Tech Stack:
 
@@ -43,9 +43,9 @@ I'm Matthieu Barraque, a passionate developer with over 5 years of experience cr
 ## 🚀 Featured Repositories:
 Click the cards below to explore some of my top projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m4tth1euNa0p1c&repo=ProjectOne)](https://github.com/m4tth1euNa0p1c/API-REST-SECURITY-JAVA)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m4tth1euNa0p1c&repo=ProjectTwo)](https://github.com/m4tth1euNa0p1c/Authly-SaaS-Architecture)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m4tth1euNa0p1c&repo=ProjectThree)](https://github.com/m4tth1euNa0p1c/ETF-Tracker-Pro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m4tth1euNa0p1c&repo=API-REST-SECURITY-JAVA)](https://github.com/m4tth1euNa0p1c/API-REST-SECURITY-JAVA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m4tth1euNa0p1c&repo=Authly-SaaS-Architecture)](https://github.com/m4tth1euNa0p1c/Authly-SaaS-Architecture)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m4tth1euNa0p1c&repo=ETF-Tracker-Pro)](https://github.com/m4tth1euNa0p1c/ETF-Tracker-Pro)
 
 ---
 
