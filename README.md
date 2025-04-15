@@ -95,16 +95,16 @@ Click the cards below to explore some of my top projects:
 ---
 
 ## 🎉 Fun Section:
-### Developer Meme (C Programming Humor)
+### Developer COc0BOX
 <p align="center">
-  <img src="https://i.imgur.com/3aXNjz0.gif" alt="C Meme" width="300"/>
+  <img src="https://media4.giphy.com/media/xT5LMBm1q5su4Ck3tK/giphy.gif?cid=6c09b952zaziux8ggei3o8hkxeew0nk887a8jlvk458tzbux&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="C Meme" width="300"/>
   <br>
   *"When you finally fix that segmentation fault..."*
 </p>
 
-### Kawaii Dev Vibes
+### AKA DEV V_V
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Kawaii Coding" width="300"/>
+  <img src="https://media1.tenor.com/m/zIZ-3gWNN_cAAAAC/naruto-anime.gif" alt="Kawaii Coding" width="300"/>
 </p>
 
 ---
