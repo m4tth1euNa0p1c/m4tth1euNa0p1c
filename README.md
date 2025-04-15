@@ -103,6 +103,4 @@ Click the cards below to explore some of my top projects:
 - [Contact](mailto:matthieu.barraque@efrei.net)
 
 ---
-[![Visitor Count](https://visitcount.itsvg.in/api?id=m4tth1euNa0p1c&icon=0&color=12)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
