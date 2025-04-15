@@ -95,14 +95,13 @@ Click the cards below to explore some of my top projects:
 ---
 
 ## X_xx_SEGFAULT_xx_X
-### Developer COc0BOX
+
 <p align="center">
   <img src="https://media4.giphy.com/media/xT5LMBm1q5su4Ck3tK/giphy.gif?cid=6c09b952zaziux8ggei3o8hkxeew0nk887a8jlvk458tzbux&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="C Meme" width="300"/>
   <br>
   *"When you finally fix that segmentation fault..."*
 </p>
 
-### AKA DEV V_V
 <p align="center">
   <img src="https://media1.tenor.com/m/zIZ-3gWNN_cAAAAC/naruto-anime.gif" alt="Kawaii Coding" width="300"/>
 </p>
