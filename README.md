@@ -46,16 +46,9 @@ Développeur passionné avec plus de 5 ans d'expérience dans la création de so
 ### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=m4tth1euNa0p1c&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 📚 Latest Blog Posts:
-<!-- BLOG-POST-LIST:START -->
-- [Titre de l'article 1](#) - Un aperçu de mes dernières réflexions sur le développement web.
-- [Titre de l'article 2](#) - Comment je conçois des architectures front-end modernes.
-- [Titre de l'article 3](#) - Les tendances tech que je suis de près en 2025.
-<!-- BLOG-POST-LIST:END -->
-
 ## 🔗 Connect With Me:
-- [Portfolio](#)  
-- [Contact](mailto:your.email@example.com)
+- [Portfolio](matthieubarraque.com)  
+- [Contact](matthieu.barraque@efrei.net)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=m4tth1euNa0p1c&icon=0&color=12)](https://visitcount.itsvg.in)
