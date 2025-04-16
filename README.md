@@ -1,7 +1,4 @@
-
-[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=m4tth1euNa0p1c&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats
-
-## 🌐
+## ☄️
 
 **Web & Front-end :**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,13 +33,16 @@
 
 ---
 
-## 📊 
+## 📊 Activity 
 
 ![Série d'activités GitHub](https://github-readme-streak-stats.herokuapp.com/?user=m4tth1euNa0p1c&theme=dark&hide_border=false)
+[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=m4tth1euNa0p1c&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 🚀
+## 🚀 Project 
+
+Cliquez sur les cartes ci-dessous pour explorer certains de mes projets principaux :
 
 [![Carte Readme - API REST Sécurité Java](https://github-readme-stats.vercel.app/api/pin/?username=m4tth1euNa0p1c&repo=API-REST-SECURITY-JAVA)](https://github.com/m4tth1euNa0p1c/API-REST-SECURITY-JAVA)
 [![Carte Readme - Architecture SaaS Authly](https://github-readme-stats.vercel.app/api/pin/?username=m4tth1euNa0p1c&repo=Authly-SaaS-Architecture)](https://github.com/m4tth1euNa0p1c/Authly-SaaS-Architecture)
