@@ -1,3 +1,6 @@
+
+[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=m4tth1euNa0p1c&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats
+
 ## 🌐
 
 **Web & Front-end :**
@@ -33,18 +36,13 @@
 
 ---
 
-## 📊 Statistiques GitHub & Langages Utilisés
-
-Ces statistiques reflètent mon activité de développement sur GitHub et mettent en évidence les langages que j'utilise le plus fréquemment. On peut observer une corrélation entre les langages listés dans mes compétences et ceux qui apparaissent comme les plus utilisés dans mes contributions.
+## 📊 
 
 ![Série d'activités GitHub](https://github-readme-streak-stats.herokuapp.com/?user=m4tth1euNa0p1c&theme=dark&hide_border=false)
-[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=m4tth1euNa0p1c&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 🚀 Projets Phares
-
-Cliquez sur les cartes ci-dessous pour explorer certains de mes projets principaux :
+## 🚀
 
 [![Carte Readme - API REST Sécurité Java](https://github-readme-stats.vercel.app/api/pin/?username=m4tth1euNa0p1c&repo=API-REST-SECURITY-JAVA)](https://github.com/m4tth1euNa0p1c/API-REST-SECURITY-JAVA)
 [![Carte Readme - Architecture SaaS Authly](https://github-readme-stats.vercel.app/api/pin/?username=m4tth1euNa0p1c&repo=Authly-SaaS-Architecture)](https://github.com/m4tth1euNa0p1c/Authly-SaaS-Architecture)
