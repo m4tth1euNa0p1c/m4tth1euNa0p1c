@@ -1,12 +1,4 @@
-## Hi there 👋
 
-# 💫 About Me:
-I'm Matthieu Barraque, a passionate developer with over 5 years of experience creating innovative, high-performance digital solutions. Specializing in Front-end development, I excel at utilizing modern technologies like React.js, Next.js, and TypeScript to transform bold concepts into robust and elegant applications. I've collaborated with agile startups as well as well-established enterprises. I'm curious, detail-oriented, and always ready to tackle new challenges—committed to delivering high-quality code and optimizing user experiences while adapting to the ever-evolving digital landscape.
-
-<!-- Animated Developer GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/mtaWx98w7mX7y/giphy.gif" alt="Nyan Cat" width="300"/>
-</p>
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-%23E4405F.svg?logo=X&logoColor=white)](https://x.com/mathieubarraque) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthieu-barraque/)
@@ -49,54 +41,13 @@ Click the cards below to explore some of my top projects:
 
 ---
 
-## 🛠️ Soft Skills & Tools:
-**Soft Skills:**  
-- 🤝 **Teamwork:** Collaborative and skilled in agile environments.  
-- 🔄 **Adaptability:** Quick learner who thrives on new challenges.  
-- 🎯 **Autonomy:** Self-driven and highly responsible.  
-- 💡 **Problem-Solving:** Innovative thinker with a knack for creative solutions.
-
-**Custom Tool Badges:**  
-![Currently Learning Rust](https://img.shields.io/badge/Currently%20Learning-Rust-orange?style=for-the-badge&logo=rust&logoColor=white)
-![Preferred Editor: VS Code](https://img.shields.io/badge/Editor-VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
 ## 📊 GitHub Stats:
 ![Matthieu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4tth1euNa0p1c&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m4tth1euNa0p1c&theme=dark&hide_border=false)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4tth1euNa0p1c&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
-## 📈 GitHub Activity Graph:
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=m4tth1euNa0p1c&theme=react-dark&area=true)
 
----
-
-## 🏆 GitHub Trophies:
-[![Trophy](https://github-profile-trophy.vercel.app/?username=m4tth1euNa0p1c&theme=dark&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🔝 Top Contributed Repo:
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=m4tth1euNa0p1c&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/m4tth1euNa0p1c)
-
----
-
-## X_xx_SEGFAULT_xx_X
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/xT5LMBm1q5su4Ck3tK/giphy.gif?cid=6c09b952zaziux8ggei3o8hkxeew0nk887a8jlvk458tzbux&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="C Meme" width="300"/>
-  <br>
-  *"When you finally fix that segmentation fault..."*
-</p>
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/zIZ-3gWNN_cAAAAC/naruto-anime.gif" alt="Kawaii Coding" width="300"/>
-</p>
-
----
 
 ## 🔗 Connect With Me:
 - [Portfolio](https://matthieubarraque.com)  
