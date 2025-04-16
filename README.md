@@ -1,9 +1,4 @@
-
-
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-%23E4405F.svg?logo=X&logoColor=white)](https://x.com/mathieubarraque) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthieu-barraque/)
-
-## 💻 Tech Stack:
+## language 
 
 **Web & Front-end:**  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
@@ -26,13 +21,12 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-**Other Tools & Languages:**  
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
+**Other Tools & Languages:**    
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 ---
 
-## 🚀 Featured Repositories:
+## 🚀 FF
 Click the cards below to explore some of my top projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m4tth1euNa0p1c&repo=API-REST-SECURITY-JAVA)](https://github.com/m4tth1euNa0p1c/API-REST-SECURITY-JAVA)
@@ -41,13 +35,9 @@ Click the cards below to explore some of my top projects:
 
 ---
   
+## 📊  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m4tth1euNa0p1c&theme=dark&hide_border=false)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4tth1euNa0p1c&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## 🔗 Connect With Me:
-- [Portfolio](https://matthieubarraque.com)  
-- [Contact](mailto:matthieu.barraque@efrei.net)
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
