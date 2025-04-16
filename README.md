@@ -47,7 +47,5 @@ Cliquez sur les cartes ci-dessous pour explorer certains de mes projets principa
 [![Carte Readme - API REST Sécurité Java](https://github-readme-stats.vercel.app/api/pin/?username=m4tth1euNa0p1c&repo=API-REST-SECURITY-JAVA)](https://github.com/m4tth1euNa0p1c/API-REST-SECURITY-JAVA)
 [![Carte Readme - Architecture SaaS Authly](https://github-readme-stats.vercel.app/api/pin/?username=m4tth1euNa0p1c&repo=Authly-SaaS-Architecture)](https://github.com/m4tth1euNa0p1c/Authly-SaaS-Architecture)
 [![Carte Readme - ETF Tracker Pro](https://github-readme-stats.vercel.app/api/pin/?username=m4tth1euNa0p1c&repo=ETF-Tracker-Pro)](https://github.com/m4tth1euNa0p1c/ETF-Tracker-Pro)
-[![Carte Readme - Un Autre Projet (Exemple)](https://github-readme-stats.vercel.app/api/pin/?username=m4tth1euNa0p1c&repo=Nom-du-Repo-Exemple)](https://github.com/m4tth1euNa0p1c/Nom-du-Repo-Exemple)
-[![Carte Readme - Encore un Projet (Exemple)](https://github-readme-stats.vercel.app/api/pin/?username=m4tth1euNa0p1c&repo=Autre-Repo-Exemple)](https://github.com/m4tth1euNa0p1c/Autre-Repo-Exemple)
 
 ---
