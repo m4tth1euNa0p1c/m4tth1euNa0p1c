@@ -43,7 +43,7 @@ Click the cards below to explore some of my top projects:
 
 ## 📊 GitHub Stats:
 ![Matthieu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4tth1euNa0p1c&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m4tth1euNa0p1c&theme=dark&hide_border=false)  
+)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4tth1euNa0p1c&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
